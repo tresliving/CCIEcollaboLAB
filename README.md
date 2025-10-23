@@ -1,7 +1,7 @@
 # CCIEcollaboLAB
 Building the a modern CCIE-level lab that will help me pass!
 
-On December 24, 2024 I walked as a college graduate from Florida International University. I studied MIS. I really only did well in Introduction to Telecommunications. 
+On December 24, 2024 I walked as a college graduate from Florida International University. I studied MIS. I really only enjoyed Introduction to Telecommunications. 
 On October 15, 2024. I gained a role as a Jr. Unified Communications Systems Analyst.
 On November 11, 2024 I figured out what my long term goal was.
 On October 23, 2024, after studying the CCNA + CCNP material I felt ready to begin studying for the CCIE.
