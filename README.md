@@ -4,7 +4,7 @@ Building the a modern CCIE-level lab that will help me pass!
 On December 24, 2024 I walked as a college graduate from Florida International University. I studied MIS. I really only enjoyed Introduction to Telecommunications. 
 On October 15, 2024. I gained a role as a Jr. Unified Communications Systems Analyst.
 On November 11, 2024 I figured out what my long term goal was.
-On October 23, 2024, after studying the CCNA + CCNP material I felt ready to begin studying for the CCIE.
+On October 10, 2025, after studying the CCNA + CCNP material I felt ready to began studying for the CCNP/ CCIE Collab material.
 Now I am working on the configs for this, and implementing the solutions on a daily as a UC/ Voice Engineer and Consultant.
 The dream is what I am living. Working in the Bronx and Midtown Manhattan. Living in Queens. Loving every second of the journey.
 But the hunger I have has altered a tad. Now, I'm pickier in my diet. I see the light at the end of the tunnel, and I'm a bit obsessive.
