@@ -1,0 +1,12 @@
+# vSwitch VLAN Mapping
+
+[WHAT THIS DOES]
+# Configure vSwitches --> assign port groups
+
+PG-MGMT (VLAN101)
+
+PG-UCAPP (VLAN102)
+
+PG-VOICE (VLAN200)
+
+PG-DMZ (VLAN300)
